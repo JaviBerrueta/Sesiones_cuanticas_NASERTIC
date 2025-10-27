@@ -1,1 +1,2 @@
-Descargar la carpeta Luanti.zip y extraer su contenido.
+Hacer clic en Luanti.
+Después, descargar Luanti.zip
